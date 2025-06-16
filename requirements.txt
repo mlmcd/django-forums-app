@@ -142,7 +142,7 @@ redis==3.5.3
     # via
     #   -r requirements.in
     #   django-redis
-requests==2.28.0
+requests==2.32.4
     # via
     #   -r requirements.in
     #   coreapi
